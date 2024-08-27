@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6ca66e3e-f975-4dd1-8223-0161fb76b7e7" alt="대표 이미지" />
+  <img src="https://github.com/user-attachments/assets/d6792ba9-cffd-4157-a862-d0a8e70b90b1" alt="대표 이미지" />
 </div>
 
 <h3 align="center">
