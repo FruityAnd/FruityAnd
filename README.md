@@ -2,6 +2,7 @@
   <img src="https://github.com/user-attachments/assets/d6792ba9-cffd-4157-a862-d0a8e70b90b1" alt="대표 이미지" />
 </div>
 
+<!--
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" />
   Tech Stack
@@ -33,21 +34,6 @@
 </h3>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
 **FruityAnd/FruityAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
